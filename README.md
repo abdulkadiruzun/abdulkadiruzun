@@ -4,7 +4,7 @@
 Hello! I am Abdulkadir.  
 With my passion for the software world, I work in the fields of computer science and software development.  
   
-At the same time, I offer innovative approaches and technological solutions in software development processes at [Zeusaku](https://zeusaku.com), where I am co-founder. Zeusaku is a platform that aims to offer value-added products to the software world, and we work passionately with our team while developing projects in this direction. 
+At the same time, I offer innovative approaches and technological solutions in software development processes at [Zeusaku](http://zeusaku.com), where I am co-founder. Zeusaku is a platform that aims to offer value-added products to the software world, and we work passionately with our team while developing projects in this direction. 
   
 I would be happy to share this passion and experience in my projects on my GitHub profile. You can join me on this journey by following the developments in my projects or by collaborating. Feel free to contact me, any questions and feedback are welcome. I can't wait to code together and discover new solutions!
 
